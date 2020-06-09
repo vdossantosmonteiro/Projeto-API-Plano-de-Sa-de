@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Desafio\DesafioPlanoSaude\DesafioPlanoSaude\ClassLibraryDados\bin\Debug\ClassLibraryDados.dll.config
+C:\Users\User\Documents\Desafio\DesafioPlanoSaude\DesafioPlanoSaude\ClassLibraryDados\bin\Debug\ClassLibraryDados.dll
+C:\Users\User\Documents\Desafio\DesafioPlanoSaude\DesafioPlanoSaude\ClassLibraryDados\bin\Debug\ClassLibraryDados.pdb
+C:\Users\User\Documents\Desafio\DesafioPlanoSaude\DesafioPlanoSaude\ClassLibraryDados\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\Desafio\DesafioPlanoSaude\DesafioPlanoSaude\ClassLibraryDados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Desafio\DesafioPlanoSaude\DesafioPlanoSaude\ClassLibraryDados\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\Desafio\DesafioPlanoSaude\DesafioPlanoSaude\ClassLibraryDados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Desafio\DesafioPlanoSaude\DesafioPlanoSaude\ClassLibraryDados\obj\Debug\ClassLibraryDados.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desafio\DesafioPlanoSaude\DesafioPlanoSaude\ClassLibraryDados\obj\Debug\ClassLibraryDados.csproj.CopyComplete
+C:\Users\User\Documents\Desafio\DesafioPlanoSaude\DesafioPlanoSaude\ClassLibraryDados\obj\Debug\ClassLibraryDados.dll
+C:\Users\User\Documents\Desafio\DesafioPlanoSaude\DesafioPlanoSaude\ClassLibraryDados\obj\Debug\ClassLibraryDados.pdb
+C:\Users\User\Documents\Desafio\DesafioPlanoSaude\DesafioPlanoSaude\ClassLibraryDados\obj\Debug\ClassLibraryDados.csprojAssemblyReference.cache
